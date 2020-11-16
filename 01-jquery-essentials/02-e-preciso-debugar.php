@@ -12,6 +12,6 @@
     </div>
     
     <script src="../js/jquery.js"></script>
-    <script src="script_01.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
