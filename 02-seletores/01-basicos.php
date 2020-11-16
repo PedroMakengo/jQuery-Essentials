@@ -7,9 +7,15 @@
 </head>
 <body>
 
-  
+    <div style="margin: 10%">
+        <p>A</p>
+        <p class="jquery">B</p>
+        <b>C</b>
+        <p class="jquery">D</p>
+        <p id="jquery">E</p>
+    </div>
     <!-- jQuery Essentials -->
-    
+
     <script src="../js/jquery.js"></script>
     <script src="script.js"></script>
 </body>
