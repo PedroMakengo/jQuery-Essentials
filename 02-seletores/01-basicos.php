@@ -17,6 +17,6 @@
     <!-- jQuery Essentials -->
 
     <script src="../js/jquery.js"></script>
-    <script src="script.js"></script>
+    <script src="basico.js"></script>
 </body>
 </html>

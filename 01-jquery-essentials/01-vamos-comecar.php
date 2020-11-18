@@ -12,6 +12,6 @@
     </div>
     
     <script src="../js/jquery.js"></script>
-    <script src="script_01.js"></script>
+    <script src="vamos_comecar.js"></script>
 </body>
 </html>

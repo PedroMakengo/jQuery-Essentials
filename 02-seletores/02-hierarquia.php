@@ -7,10 +7,17 @@
 </head>
 <body>
 
-  
     <!-- jQuery Essentials -->
+    <article style="padding: 10%">
+        A
+        <div>
+            D
+            <p>P</p>
+        </div> 
+        <p>P != DIV</p>
+    </article>
     
     <script src="../js/jquery.js"></script>
-    <script src="script.js"></script>
+    <script src="hierarquia.js"></script>
 </body>
 </html>

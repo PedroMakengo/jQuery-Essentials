@@ -12,6 +12,6 @@
     </div>
     
     <script src="../js/jquery.js"></script>
-    <script src="script.js"></script>
+    <script src="e_preciso_debugar.js"></script>
 </body>
 </html>
