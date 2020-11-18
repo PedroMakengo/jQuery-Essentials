@@ -46,4 +46,7 @@ $(function () {
 
 
     $(":focus").css("padding", "10px");
+
+    // Filtro do tipo root é muito pouco utilizado ele simplesmente pega a raíz...
+    console.log($(":root"));
 });
