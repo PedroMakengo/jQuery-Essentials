@@ -21,7 +21,8 @@
         <p><a href="#" title="UpInside">Site da UpInside</a></p>
         <p class="jquery-essentials">jQuery-Essentials</p>
         <div class="jquery-div">Div jQuery</div>
-        <p class="jqueryEssentials">jqueryEssentials</p>
+        <p class="jqueryEssentialsDiv">jqueryEssentials</p>
+        <p><a href="#" title="UpInside Treinamentos">Site da UpInside</a></p>
         <p class="jquery Essentials">jquery Essentials</p>
     </div>
     
