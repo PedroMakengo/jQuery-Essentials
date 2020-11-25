@@ -1,4 +1,5 @@
 $(function () {
+
     // SELECTOR DE ELEMENTO
     $("b").text("jQuery Essentials");
 
@@ -15,5 +16,6 @@ $(function () {
         padding: "10px",
         'font-size': "1.4em"
     });
+
     $("b").add("p").css("font-size", "2em");
 });
