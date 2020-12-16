@@ -8,7 +8,7 @@ $(function () {
     // Envolvendo cada paragrafo em um outro elemento 
     $("p").wrapInner("<span>");
 
-    // Removendo 
+    // Removendo o span do paragrafo
     $("span").unwrap("p");
 
     $("span").wrap("<h2>")
