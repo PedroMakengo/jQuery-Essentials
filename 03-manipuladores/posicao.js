@@ -23,6 +23,7 @@ $(function () {
 
     $(window).scroll(function () {
         var el = $(this);
+        console.log(el.outerHeight());
         console.log("TOP: " + el.scrollTop() + " LEFT: " + el.scrollLeft());
     });
 });
