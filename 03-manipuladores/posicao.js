@@ -17,7 +17,7 @@ $(function () {
     console.log("LEFT: " + el.position().left);
     console.groupEnd();
 
-    // SCROL 
+    // SCROLL 
     console.group("SCROLL");
     $("body").outerWidth(3000).outerHeight(3000);
 
